@@ -17,7 +17,7 @@ Script em Python que simula digitação tecla a tecla em qualquer campo de texto
 
 1. Clone o repositório:
    ```bash
-   [git clone https://github.com/eduardofrois/script-ead.git](https://github.com/eduardofrois/script-ead.git)
+   git clone https://github.com/eduardofrois/script-ead.git
    cd script-ead
    ```
 
